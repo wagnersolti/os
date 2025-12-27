@@ -1,0 +1,7 @@
+{
+  "name": "OS Pro - Wagner Soluções",
+  "description": "Uma plataforma profissional completa para gerenciamento de ordens de serviço, clientes, estoque e análise financeira com inteligência artificial Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
